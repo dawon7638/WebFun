@@ -1,0 +1,26 @@
+*{
+    padding: 0px;
+    margin: auto;
+    outline: 1px dotted red;
+}
+
+.container {
+    width: 970px;
+    margin: auto;
+    
+}
+
+
+    .mainbox {
+        display: flex;
+        flex-direction: column;
+
+    }
+
+
+
+    img {
+        height: auto;
+        width: 300px;
+        padding: 5px;
+    }

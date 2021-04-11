@@ -1,0 +1,56 @@
+*{
+    padding: 0;
+    margin: 0%;
+    margin: auto;
+}
+
+
+div.container {
+    width: 790px;
+    height: auto;
+    border: 3px solid black;
+}
+
+        .redparagraph {
+        color: red;
+        }  
+        
+        
+    header {
+        background-color: grey;
+        height: 100px;
+        text-align: center;
+        font-size: 25px;
+    }
+
+    main {
+        display: flex;
+        flex-direction: column;
+        
+    }
+
+    .boxes {
+        display: flex;
+        flex-direction: column;
+        border-bottom: 2px solid black;
+        width: 650px;
+        height:auto
+    }
+
+    .boxes h1 {
+        text-align: center;
+    }
+
+    .boxes button {
+        display: flex;
+        justify-content: space-between;
+    }
+
+    .boxes p {
+        text-align: center;
+    }
+
+    footer {
+        height: 50px;
+        background-color: grey;
+    }

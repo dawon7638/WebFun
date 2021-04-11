@@ -1,0 +1,47 @@
+*{
+    padding: 0px;
+    margin: auto;
+}
+
+.container {
+    width: 970px;
+    margin: auto;
+    
+}
+
+    .main {
+        background-color: blue;
+        display: flex;
+        flex-direction: row;
+        flex-wrap: wrap;
+        justify-content: center;
+        padding: 10px;
+        gap: 5px;
+    }
+
+
+    p {
+        font-size: 20px;
+        font-weight: bold;
+        font-family:"Comic Sans MS", "Comic Sans", cursive;
+        margin-bottom: 20px;
+    }
+
+
+    img {
+        display: flex;
+        flex-direction: row;
+        
+        width: 200px;
+        /* height: auto; */
+        border: 2px solid black;
+    }
+
+    button {
+        color: white;
+        background-color: green;
+        border: 1px solid black;
+        padding: 3px;
+        box-shadow: 2px 2px black;
+        margin-top: 20px;
+    }

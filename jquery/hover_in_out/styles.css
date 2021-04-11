@@ -1,0 +1,25 @@
+*{
+    padding: 0px;
+    margin: auto;
+    outline: 1px dotted red;
+}
+
+.container {
+    width: 970px;
+    margin: auto;
+}
+
+.container {
+    width: 970px;
+}
+
+.img1 {
+    width: 230px;
+    height: 258px;
+}
+
+
+.img2 {
+    width: 205px;
+    height: 258px;
+}
